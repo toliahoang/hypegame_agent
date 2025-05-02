@@ -1,3 +1,5 @@
 apple
 orange
-banana
+banan
+hana
+watermelon
