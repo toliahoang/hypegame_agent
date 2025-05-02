@@ -1,2 +1,3 @@
-##### description
 ##### hypegame agent for getting the trending games on the internet
+##### hypegame for tracking new games
+
