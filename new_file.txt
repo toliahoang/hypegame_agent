@@ -1,1 +1,4 @@
 This is the new file for store logs
+
+very new logs
+third logs
